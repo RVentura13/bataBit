@@ -465,7 +465,7 @@ header img {
 }
 .plans-container--slider{
   display: flex;
-  gap: 30px;
+  gap: 20px;
   height: 316px;
   overflow-x: scroll;
   overscroll-behavior-x: contain;
@@ -475,7 +475,7 @@ header img {
   position: relative;
   scroll-snap-align: center;
   width: 70%;
-  min-width: 230px;
+  min-width: 190px;
   max-width: 300px;
   height: 250px;
   margin: 50px auto 0;
